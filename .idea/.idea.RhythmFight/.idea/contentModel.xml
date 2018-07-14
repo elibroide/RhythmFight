@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_RhythmFight.-2023428269.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RhythmFight" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="GameController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="GameState.cs" t="Include" />
+          <e p="PlayerAction.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="GameModel.cs" t="Include" />
+          <e p="PlayerModel.cs" t="Include" />
+          <e p="PlayerStatsModel.cs" t="Include" />
+          <e p="TimerModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="RhythmFight.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RhythmFight.csproj" t="IncludeRecursive" />
+        <e p="Utils" t="Include">
+          <e p="Value.cs" t="Include" />
+        </e>
+      </e>
+      <e p="RhythmFight.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
