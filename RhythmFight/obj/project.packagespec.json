@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/elibroidemoonactive/RiderProjects/RhythmFight/RhythmFight/RhythmFight.csproj",
+    "projectUniqueName": "C:\\Development\\RhythmFight\\RhythmFight\\RhythmFight.csproj",
     "projectName": "RhythmFight",
-    "projectPath": "/Users/elibroidemoonactive/RiderProjects/RhythmFight/RhythmFight/RhythmFight.csproj",
-    "outputPath": "/Users/elibroidemoonactive/RiderProjects/RhythmFight/RhythmFight/obj/",
+    "projectPath": "C:\\Development\\RhythmFight\\RhythmFight\\RhythmFight.csproj",
+    "outputPath": "C:\\Development\\RhythmFight\\RhythmFight\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.0"

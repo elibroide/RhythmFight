@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_RhythmFight.-2023428269.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeFlat">
+    <e p="C:\Development\RhythmFight" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="RhythmFight" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -33,5 +32,6 @@
       </e>
       <e p="RhythmFight.sln" t="IncludeFlat" />
     </e>
+    <e p="C:\Users\elibr\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_RhythmFight.1727505004.00" t="ExcludeRecursive" />
   </component>
 </project>

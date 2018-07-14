@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/elibroidemoonactive/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\elibr\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elibroidemoonactive/RiderProjects/RhythmFight/RhythmFight/RhythmFight.csproj",
+      "projectUniqueName": "C:\\Development\\RhythmFight\\RhythmFight\\RhythmFight.csproj",
       "projectName": "RhythmFight",
-      "projectPath": "/Users/elibroidemoonactive/RiderProjects/RhythmFight/RhythmFight/RhythmFight.csproj",
-      "packagesPath": "/Users/elibroidemoonactive/.nuget/packages/",
-      "outputPath": "/Users/elibroidemoonactive/RiderProjects/RhythmFight/RhythmFight/obj/",
+      "projectPath": "C:\\Development\\RhythmFight\\RhythmFight\\RhythmFight.csproj",
+      "packagesPath": "C:\\Users\\elibr\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\RhythmFight\\RhythmFight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/elibroidemoonactive/.config/NuGet/NuGet.Config"
+        "C:\\Users\\elibr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
